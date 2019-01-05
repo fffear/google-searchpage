@@ -477,3 +477,37 @@ svg {
 .feed a:hover {
   text-decoration: underline;
 }
+
+.feed a:visited {
+  color: grey;
+}
+
+.ad {
+  font-size: 13px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ad li {
+  display: inline-block;
+}
+
+.ad li a:link {
+  text-decoration: none;
+}
+
+.ad li a:hover {
+  text-decoration: underline;
+}
+
+.ad li a:visited {
+  color:#1a0dab;
+}
+
+.ad-i {
+  border: 1px solid #006621;
+  font-size: 10px;
+  padding: 1px;
+  border-radius: 4px;
+}
