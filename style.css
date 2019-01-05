@@ -472,6 +472,7 @@ svg {
 
 .feed a {
   text-decoration: none;
+  color: grey;
 }
 
 .feed a:hover {
